@@ -23,7 +23,11 @@ var keys = {
 		urls: [
 			{
 				symbol: 'calendar-o',
-				url: 'https://calendar.google.com/calendar/ical/eweis007%40odu.edu/private-961eff537ffd4a0864dd995e69c681ac/basic.ics'
+				// This is my school calendar
+				// url: 'https://calendar.google.com/calendar/ical/eweis007%40odu.edu/private-961eff537ffd4a0864dd995e69c681ac/basic.ics'
+
+				// This is the mirror calendar
+				url: 'https://calendar.google.com/calendar/ical/uhsdlcl9p6chtbb71mc5j1pfsg%40group.calendar.google.com/private-e230ea2bb25332c533d6fd8a9e7c7020/basic.ics'
 				// For Google Calendar, it's the 'Private Address' under Calendar Settings when viewing your Calendar
 			},
 			{
